@@ -4,7 +4,7 @@ let movies = [
     year: '1994',
     director: 'Frank Darabont',
     duration: '2h 22min',
-    genre: ['Crime', 'Drama'],
+    genre: ['Crime', 'Drama'], 
     rate: '9.3'
   },
   {
